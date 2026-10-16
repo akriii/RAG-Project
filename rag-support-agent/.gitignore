@@ -1,0 +1,13 @@
+# Environment variables (SECRETS)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector stores & local databases
+faiss_db/
+
+# IDE settings
+.vscode/
+.idea/
